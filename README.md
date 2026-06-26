@@ -83,3 +83,52 @@ npm run dev       # http://localhost:5173
 | admin | admin123 | Administrador |
 | docente | docente123 | Docente |
 | preceptor | preceptor123 | Preceptor |
+
+
+## Descripción
+
+**EduGestión** es un sistema integral de gestión escolar desarrollado para facilitar la administración de instituciones educativas. Permite gestionar estudiantes, usuarios, materias, asistencias y calificaciones desde una aplicación web moderna e intuitiva. Además, incorpora autenticación mediante JWT y un panel de control con estadísticas para optimizar el seguimiento de la información académica.
+
+
+
+## Funcionalidades
+
+* Autenticación de usuarios mediante JWT.
+* Inicio de sesión con control de acceso por roles.
+* Gestión completa de estudiantes (CRUD).
+* Gestión de usuarios (CRUD).
+* Gestión de materias (CRUD).
+* Registro y consulta de calificaciones.
+* Registro y control de asistencias.
+* Dashboard con estadísticas y actividad reciente.
+
+
+## Tecnologías utilizadas
+
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* Recharts
+* Lucide React
+
+### Backend
+
+* Node.js
+* Express
+* SQLite
+* Better SQLite3
+* JSON Web Token (JWT)
+* bcryptjs
+* CORS
+
+## Autores
+
+Proyecto desarrollado por:
+
+* Jeremías Díaz
+* Juan Carballo
+* Lionel Prado
+* Gerónimo Martínez
+* Ignacio Kozak
